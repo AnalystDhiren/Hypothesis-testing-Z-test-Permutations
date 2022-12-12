@@ -4,7 +4,7 @@
 
 🏅 I am studying as well as working on Data Science projects from IIT Madaras.
 
-🎓 I have completed my Emgineering from Mumbai University & MBA from (Cardiff University) London.
+🎓 I have completed my Engineering from Mumbai University & MBA from (Cardiff University) London.
 
 ⏳ I am constantly learning and keep myself updated with the latest technologies in Data Analytics, ML & AI.
 
